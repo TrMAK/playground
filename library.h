@@ -1,0 +1,6 @@
+#ifndef PLAYGROUND_LIBRARY_H
+#define PLAYGROUND_LIBRARY_H
+
+void hello();
+
+#endif //PLAYGROUND_LIBRARY_H
